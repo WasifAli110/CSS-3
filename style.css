@@ -1,0 +1,12 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+p{
+  font-weight: bold;
+}
+.p3{
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+}
